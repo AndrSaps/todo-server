@@ -1,0 +1,12 @@
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\bin\Debug\netcoreapp2.1\ToDo.Repository.deps.json
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\bin\Debug\netcoreapp2.1\ToDo.Repository.dll
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\bin\Debug\netcoreapp2.1\ToDo.Repository.pdb
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\bin\Debug\netcoreapp2.1\ToDo.DataLayer.dll
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\bin\Debug\netcoreapp2.1\ToDo.DataLayer.pdb
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\obj\Debug\netcoreapp2.1\ToDo.Repository.csprojAssemblyReference.cache
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\obj\Debug\netcoreapp2.1\ToDo.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\obj\Debug\netcoreapp2.1\ToDo.Repository.AssemblyInfoInputs.cache
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\obj\Debug\netcoreapp2.1\ToDo.Repository.AssemblyInfo.cs
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\obj\Debug\netcoreapp2.1\ToDo.Repository.csproj.CopyComplete
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\obj\Debug\netcoreapp2.1\ToDo.Repository.dll
+C:\Users\Andrii\source\repos\TodoAppTask\Todo.Repository\obj\Debug\netcoreapp2.1\ToDo.Repository.pdb

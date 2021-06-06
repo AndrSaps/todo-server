@@ -1,0 +1,12 @@
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\bin\Debug\netcoreapp2.1\ToDo.DataLayer.deps.json
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\bin\Debug\netcoreapp2.1\ToDo.DataLayer.dll
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\obj\Debug\netcoreapp2.1\ToDo.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\obj\Debug\netcoreapp2.1\ToDo.DataLayer.AssemblyInfoInputs.cache
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\obj\Debug\netcoreapp2.1\ToDo.DataLayer.AssemblyInfo.cs
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\bin\Debug\netcoreapp2.1\ToDo.DataLayer.runtimeconfig.json
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\bin\Debug\netcoreapp2.1\ToDo.DataLayer.runtimeconfig.dev.json
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\bin\Debug\netcoreapp2.1\ToDo.DataLayer.pdb
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\obj\Debug\netcoreapp2.1\ToDo.DataLayer.dll
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\obj\Debug\netcoreapp2.1\ToDo.DataLayer.pdb
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\obj\Debug\netcoreapp2.1\ToDo.DataLayer.csprojAssemblyReference.cache
+C:\Users\Andrii\source\repos\TodoAppTask\ToDo.DataLayer\obj\Debug\netcoreapp2.1\ToDo.DataLayer.genruntimeconfig.cache

@@ -1,0 +1,207 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Services\\ToDo.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Services\\ToDo.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Services\\ToDo.Services.csproj",
+        "projectName": "ToDo.Services",
+        "projectPath": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Services\\ToDo.Services.csproj",
+        "packagesPath": "C:\\Users\\Andrii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\ToDo.DataLayer\\ToDo.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\ToDo.DataLayer\\ToDo.DataLayer.csproj"
+              },
+              "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Todo.Repository\\ToDo.Repository.csproj": {
+                "projectPath": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Todo.Repository\\ToDo.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\ToDo.DataLayer\\ToDo.DataLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\ToDo.DataLayer\\ToDo.DataLayer.csproj",
+        "projectName": "ToDo.DataLayer",
+        "projectPath": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\ToDo.DataLayer\\ToDo.DataLayer.csproj",
+        "packagesPath": "C:\\Users\\Andrii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\ToDo.DataLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Todo.Repository\\ToDo.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Todo.Repository\\ToDo.Repository.csproj",
+        "projectName": "ToDo.Repository",
+        "projectPath": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Todo.Repository\\ToDo.Repository.csproj",
+        "packagesPath": "C:\\Users\\Andrii\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\Todo.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Andrii\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\ToDo.DataLayer\\ToDo.DataLayer.csproj": {
+                "projectPath": "C:\\Users\\Andrii\\source\\repos\\TodoAppTask\\ToDo.DataLayer\\ToDo.DataLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
